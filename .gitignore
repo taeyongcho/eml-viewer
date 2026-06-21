@@ -1,0 +1,16 @@
+# Build
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# DB cache
+*.db
+
+# IDE
+.vscode/
+.idea/
